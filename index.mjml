@@ -1,0 +1,220 @@
+<mjml>
+
+  <mj-head>
+    <mj-style>
+      @media only screen and (min-width:960px) {
+        .large {
+          position: absolute;
+          opacity: .2;
+
+        }
+      }
+
+      @media only screen and (max-width:960px) {
+        .large {
+          position: absolute;
+          opacity: .2;
+
+        }
+      }
+
+      @media only screen and (min-width:600px) {
+        .large {
+          position: relative;
+          opacity: 1;
+        }
+
+        .small {
+          position: absolute;
+          opacity: 0;
+
+        }
+      }
+
+      @media only screen and (max-width:600px) {
+        .large {
+          position: absolute;
+          opacity: 0;
+        }
+
+        .small {
+          position: relative;
+          opacity: 1;
+
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/limited_time_offer.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/limited_time_offer_2.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/new_york_times_all_access.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/new_york_times_all_access_2.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="./assets/limited_time_offer.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" >
+      <mj-column>
+        <mj-image padding="0" src="./assets/all_your_interests.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/proceed_to_checkout.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/proceed_to_checkout_50_smaller.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/proceed_to_checkout_125.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/proceed_to_checkout_124_smaller.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0"  css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/all_access_subscription.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/news_smaller.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/games_puzzles_points_2.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/games_puzzles_points_play.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/cooking.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/cooking2.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/wirecutter.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/wirecutter2.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/the_athletic.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="assets\the_atheletic_2.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="large">
+      <mj-column>
+        <mj-image padding="0" src="./assets/special_offer_23.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="small">
+      <mj-column>
+        <mj-image padding="0" src="./assets/special_offer_2.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3">
+          Offer for a New York Times All Access Subscription; current subscribers not eligible. Subscriptions exclude print edition. For monthly offers your payment method will automatically be charged in advance the introductory rate every 4 weeks for 1 year, and after 1 year the standard rate every 4 weeks. For annual offers your payment method will automatically be charged in advance the introductory rate for the first year; it will then be automatically charged the standard rate in advance every 4 weeks thereafter. Your subscription will continue until you <a href="#" style="color:rgb(120,120,120)">cancel</a>. Cancellation takes effect at the end of your current billing period. Taxes may apply. Offer terms are subject to change.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text padding-top="0" color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3">This email was sent to osaintilien55@gmail.com</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text padding-top="0" color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3">To stop receiving our updates and offers, unsubscribe. To opt out of newsletters and other promotional emails from The Times, manage your email preferences.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text padding-top="0" color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3">To stop receiving our updates and offers, <a href="#" style="color:rgb(120,120,120)">unsubscribe</a>. To opt out of newsletters and other promotional emails from The Times, manage your <a href="#" style="color:rgb(120,120,120)">email preferences</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text padding-top="0" color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3"><a href="#" style="color:rgb(120,120,120)">Account Login</a> | <a href="#" style="color:rgb(120,120,120)">Help Center</a> | <a href="#" style="color:rgb(120,120,120)">Terms of Service</a> | <a href="#" style="color:rgb(120,120,120)">Privacy Policy</a> | <a href="#" style="color:rgb(120,120,120)">California Notices</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="white">
+        <mj-text padding-top="0" color="rgb(120,120,120)" font-family="Arial" font-size="12px" line-height="1.3">©2023 The New York Times Company | 620 Eighth Avenue, New York, NY 10018</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
